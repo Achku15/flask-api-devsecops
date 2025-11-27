@@ -1,7 +1,7 @@
 name: Pipeline CI/CD DevSecOps AWS 
 on: 
 push: 
-16 
+    16 
 branches: [ "main" ] 
 pull_request: 
 branches: [ "main" ] 
